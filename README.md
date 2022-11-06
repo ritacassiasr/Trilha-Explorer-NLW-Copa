@@ -21,6 +21,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="calendário da copa" src=".github/preview.png" width="100%">
 </p>
 
+visualização do projeto [nesse link.](https://ritacassiasr.github.io/Trilha-Explorer-NLW-Copa/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
